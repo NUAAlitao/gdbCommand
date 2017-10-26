@@ -1,0 +1,5 @@
+1、display  expression  
+	显示expression的直，当每次程序暂停时
+
+2、undisplay number
+	取消显示编号为number的变量直
